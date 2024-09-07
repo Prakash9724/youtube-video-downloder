@@ -17,7 +17,7 @@ Technologies Used
 
 Screenshots
 
-![Main Window]([https://user-images.githubusercontent.com/your-image-url](https://github.com/Prakash9724/youtube-video-downloder/blob/main/imageofmodel.png))
+![Main Window]([https://github.com/Prakash9724/youtube-video-downloder/blob/main/imageofmodel.png])
 
 Requirements
 Make sure you have Python installed on your machine. You can download Python [here](https://www.python.org/downloads/).
