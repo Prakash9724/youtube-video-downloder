@@ -72,19 +72,4 @@ Feel free to fork this repository, make changes, and create a pull request! Any 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-javascript
-Copy code
 
-Notes:
-1. Replace the placeholder URLs such as `https://github.com/your-username/your-repo-name.git` with your actual GitHub repository URL.
-2. If you want to include a screenshot, you can take a screenshot of your running application and upload it to GitHub, then link it in the `README.md`.
-
-Adding `requirements.txt`
-Create a `requirements.txt` file that lists all the required dependencies:
-
-txt
-yt-dlp
-ttkbootstrap
-You can then reference it in the README as part of the installation instructions.
-
-This README.md file should provide a solid base for your GitHub project, giving users all the information they need to get started. Let me know if you'd like to make any adjustments or add more details!
