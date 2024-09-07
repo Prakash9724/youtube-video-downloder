@@ -34,7 +34,7 @@ pip install yt-dlp ttkbootstrap
 How to Run:
 Clone this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/Prakash9724/youtube-video-downloder/tree/main)
 
 
 Navigate to the project directory:
